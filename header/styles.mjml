@@ -1,0 +1,33 @@
+<mj-style>
+  .head {
+    box-shadow: 0px 6px 25px rgba(0, 0, 0, 0.15);
+    padding: 16px;
+  }
+
+  .head__text {
+    padding-top: 8px;
+  }
+
+  .head__text_lottery {
+    padding-right: 24px;
+  }
+
+  .head__text_edition {
+    padding-left: 23px;
+  }
+
+  @media(max-width: 320px) {
+    .head {
+      padding: 12px;
+    }
+
+    .head__text {
+      padding-top: 16px;
+    }
+
+    .head__text div {
+      text-align: left !important;
+    }
+
+  }
+</mj-style>

@@ -1,0 +1,35 @@
+<mjml>
+  <mj-head>
+    <mj-title>Тестовое письмо с билетами</mj-title>
+    <mj-preview>Тестовое описание письма</mj-preview>
+    <mj-include path="styles.mjml" />
+    <mj-include path="../fonts/fonts.mjml" />
+    <mj-include path="../styles/styles.mjml" />
+    <mj-breakpoint width="321px" />
+  </mj-head>
+  <mj-body width='600px'>
+    <mj-section css-class='head' background-color='#fff' padding='0'>
+      <mj-column width='25%'>
+        <mj-text padding='0' align='left'>
+          <span class='size14'>Государственная лотерея</span>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class='head__text' width="75%">
+        <mj-text padding='0' align='right'>
+          <span class='head__text_lottery size14'>Новые</span>
+          <span class='grey'>|</span>
+          <span class='head__text_edition size14'>Будущие лотереи</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color='grey' padding='0'>
+      <mj-column>
+        <mj-text>
+          <span class='size14'>
+            Бестиражные лотереи
+          </span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

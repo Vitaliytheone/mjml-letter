@@ -1,0 +1,72 @@
+<mj-style>
+  body,
+  div {
+    font-family: TTWellingtons, Trebuchet MS, sans-serif;
+    font-weight: inherit;
+    font-feature-settings: 'lnum';
+    font-variant-numeric: lining-nums;
+    font-weight: 500;
+    box-sizing: border-box;
+  }
+
+  .black {
+    color: #101820;
+  }
+
+  .white {
+    color: #fff;
+  }
+
+  .grey {
+    color: #5E6976;
+  }
+
+  .size10 {
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .size12 {
+    font-size: 12px;
+    line-height: 15px;
+  }
+
+  .size14 {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  .size16 {
+    font-size: 16px;
+    line-height: 21px;
+  }
+
+  .size20 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+
+  .w-normal {
+    font-weight: normal;
+  }
+
+  .w-500 {
+    font-weight: 500;
+  }
+
+  .w-700 {
+    font-weight: 700;
+  }
+
+  .text-left {
+    text-align: left;
+  }
+
+  .text-right {
+    text-align: right;
+  }
+
+  .p-0 {
+    padding: 0;
+  }
+</mj-style>

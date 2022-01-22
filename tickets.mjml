@@ -1,0 +1,10 @@
+<mjml>
+  <mj-head>
+    <mj-title>Тестовое письмо с билетами</mj-title>
+    <mj-preview>Тестовое описание письма</mj-preview>
+    <mj-include path="./styles/styles.mjml" />
+  </mj-head>
+  <mj-body width='600px'>
+    <mj-include path="./header/header.mjml" />
+  </mj-body>
+</mjml>
