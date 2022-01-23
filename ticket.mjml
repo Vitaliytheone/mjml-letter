@@ -27,7 +27,7 @@
             Вы получили это письмо, так как Ваш адрес был указан на сайте <a href='#'>гос-лото.ру</a>
           </span>
         </mj-text>
-        <mj-button padding='0' padding-bottom='24px' align='left' background-color="purple" color="white">
+        <mj-button href='#' padding='0' padding-bottom='24px' align='left' background-color="purple" color="white">
           Подтвердить e-mail
         </mj-button>
         <mj-text padding='0'>
