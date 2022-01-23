@@ -1,0 +1,11 @@
+<mj-style>
+  .ticket {
+    padding: 32px 32px 64px 32px;
+  }
+
+  @media(max-width: 320px) {
+    .ticket {
+      padding: 24px 12px 48px 12px;
+    }
+  }
+</mj-style>

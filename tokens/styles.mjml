@@ -1,7 +1,15 @@
 <mj-style>
+  body {
+    background: #bfbfbf94;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
   body,
   div {
-    font-family: TTWellingtons, Trebuchet MS, sans-serif;
+    font-family: Trebuchet MS, sans-serif;
     font-weight: inherit;
     font-feature-settings: 'lnum';
     font-variant-numeric: lining-nums;
