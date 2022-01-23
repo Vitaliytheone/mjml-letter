@@ -3,9 +3,9 @@
     <mj-title>Тестовое письмо с билетами</mj-title>
     <mj-preview>Тестовое описание письма</mj-preview>
     <mj-include path="./tokens/styles.mjml" />
+    <mj-include path="./styles.mjml" />
     <mj-include path="./header/styles.mjml" />
     <mj-include path="./footer/styles.mjml" />
-    <mj-include path="./styles.mjml" />
     <mj-breakpoint width="321px" />
   </mj-head>
   <mj-body width='600px'>
